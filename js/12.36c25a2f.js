@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[12],{f629:function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("h5",[n._v("Whatsapp")])},l=[],s={},u=s,c=t("2877"),p=Object(c["a"])(u,a,l,!1,null,null,null);e["default"]=p.exports}}]);
